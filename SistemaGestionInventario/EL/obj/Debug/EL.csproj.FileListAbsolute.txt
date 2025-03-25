@@ -1,0 +1,6 @@
+C:\Users\guard\OneDrive\Documentos\ProyectoFinal Programación 1\SistemaGestionInventario\EL\bin\Debug\EL.dll
+C:\Users\guard\OneDrive\Documentos\ProyectoFinal Programación 1\SistemaGestionInventario\EL\bin\Debug\EL.pdb
+C:\Users\guard\OneDrive\Documentos\ProyectoFinal Programación 1\SistemaGestionInventario\EL\obj\Debug\EL.csproj.AssemblyReference.cache
+C:\Users\guard\OneDrive\Documentos\ProyectoFinal Programación 1\SistemaGestionInventario\EL\obj\Debug\EL.csproj.CoreCompileInputs.cache
+C:\Users\guard\OneDrive\Documentos\ProyectoFinal Programación 1\SistemaGestionInventario\EL\obj\Debug\EL.dll
+C:\Users\guard\OneDrive\Documentos\ProyectoFinal Programación 1\SistemaGestionInventario\EL\obj\Debug\EL.pdb
