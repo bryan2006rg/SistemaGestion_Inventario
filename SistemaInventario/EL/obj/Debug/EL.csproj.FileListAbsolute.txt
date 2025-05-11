@@ -1,2 +1,0 @@
-C:\Users\guard\source\repos\SistemaInventario\EL\obj\Debug\EL.csproj.AssemblyReference.cache
-C:\Users\guard\source\repos\SistemaInventario\EL\obj\Debug\EL.csproj.CoreCompileInputs.cache
